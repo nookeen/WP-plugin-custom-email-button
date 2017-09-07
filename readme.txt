@@ -15,9 +15,8 @@ This plugin adds a buttons to TinyMCE editor which converts the selected text in
 
 == Installation ==
 
-1. Download.
-2. Unzip.
-3. Upload to the plugins directory (wp-content/plugins).
+1. Download current Release, ZIP file without '-master'.
+2. Use WP plugin installer to upload this ZIP.
 4. Activate the plugin.
 
 == Changelog ==
