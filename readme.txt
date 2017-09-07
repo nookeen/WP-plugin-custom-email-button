@@ -19,7 +19,7 @@ I created this plugin when my Marketing team struggled to type 'mailto:’ each 
 
 == Installation ==
 
-1. Download current Release from (https://github.com/nookeen/tinymce-emailbutton/releases), DO NOT download ZIP file with '-master' which you would get after pressing 'Clone / Download' green button.
+1. Download current Release (file name tinymce-emailbutton.zip) from (https://github.com/nookeen/tinymce-emailbutton/releases), DO NOT download ZIP file with '-master' which you would get after pressing 'Clone or Download' green button.
 2. Use WP plugin installer to upload this ZIP.
 4. Activate the plugin.
 
